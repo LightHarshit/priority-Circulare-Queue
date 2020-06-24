@@ -2,6 +2,8 @@
 
 Adding priority to the circular queue
 
+<h3>Output of the code</h3><br>
+
 1-0 <br>
 0 0 <br>
 1-0 -> 2-0 <br>
